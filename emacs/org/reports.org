@@ -1,0 +1,6 @@
+#+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block thismonth :step day :stepskip0 t :fileskip0 t :timestamp :inherit-props t :properties t
+
+
+#+END:
+
+

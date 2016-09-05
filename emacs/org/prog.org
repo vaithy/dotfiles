@@ -1,0 +1,14 @@
+#+LAST_MOBILE_CHANGE: 2016-07-05 18:33:01
+
+* Todo
+** NEXT Programming in Scala                                          :scala:
+   SCHEDULED: <2016-07-05 Tue 08:30>
+   :PROPERTIES:
+   :ID:       d83fb8ed-fe7d-4b7f-8f41-764ae69fb3d0
+   :END:
+
+** TODO Programming in Scala - Week 2
+   :PROPERTIES:
+   :ID:       717f1dde-7397-49cf-a18e-2d786818a21b
+   :END:
+[2016-07-05 Tue 21:00]

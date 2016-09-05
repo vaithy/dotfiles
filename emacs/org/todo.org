@@ -1,0 +1,22 @@
+#+LAST_MOBILE_CHANGE: 2016-07-05 23:26:47
+#+FILETAGS: PERSONAL
+
+* Tasks
+** Organization
+   
+** NEXT Technical update - OOAD
+   SCHEDULED: <2016-07-05 Tue 19:00>
+   :PROPERTIES:
+   :ID:       af42057f-e18c-43b4-8a80-8030977ebbb3
+   :END:
+** NEXT Tech - Algorithms
+   SCHEDULED: <2016-07-05 Tue 21:00>
+   :PROPERTIES:
+   :ID:       6f29b98f-ba41-4439-9b51-38333bd6d03a
+   :END:
+
+** TODO [#A] Check out MobileOrg - Google calendar sync
+   :PROPERTIES:
+   :ID:       8ce1e877-62b9-45b0-937e-7d7f70d91df8
+   :END:
+[2016-07-05 Tue 23:24]
